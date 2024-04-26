@@ -30,10 +30,11 @@ docker build -t frontend .
 3. Run the Docker container for the frontend:
 
 docker run -d -p 3000:80 frontend
-![image](https://github.com/Josem0117/FactoredAI/assets/90717090/fcae91e5-1664-4217-9c65-c59c3dda8652)
+
 ![image](https://github.com/Josem0117/FactoredAI/assets/90717090/ba4dfe88-6ff8-4c44-bb70-c0f2e70a6db5)
 
 You can now access the frontend application at http://localhost:3000.
+
 ![image](https://github.com/Josem0117/FactoredAI/assets/90717090/10aad204-1887-402b-90e5-aa57097708fe)
 
 ### Backend
