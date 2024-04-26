@@ -15,7 +15,7 @@ git clone https://github.com/Josem0117/FactoredAI
 cd your-repository
 
 ## Building and Running the Docker Containers
-![image](https://github.com/Josem0117/FactoredAI/assets/90717090/cd5c0488-4ae2-4288-aafd-710b9ee0b936)
+
 
 ### Frontend
 
@@ -30,8 +30,11 @@ docker build -t frontend .
 3. Run the Docker container for the frontend:
 
 docker run -d -p 3000:80 frontend
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/fcae91e5-1664-4217-9c65-c59c3dda8652)
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/ba4dfe88-6ff8-4c44-bb70-c0f2e70a6db5)
 
 You can now access the frontend application at http://localhost:3000.
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/10aad204-1887-402b-90e5-aa57097708fe)
 
 ### Backend
 
@@ -46,8 +49,11 @@ docker build -t backend .
 3. Run the Docker container for the backend:
 
 docker run -d -p 8000:8000 backend
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/f2ce6982-4f55-4ef2-9c4f-05d372fcc7b1)
 
-The backend API is now accessible at http://localhost:8000.
+The backend API is now accessible at http://localhost:8000/employees.
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/293b4577-fca4-4097-b11a-011ff84b9c19)
+
 
 ## Stopping the Containers
 
