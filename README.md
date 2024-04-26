@@ -15,6 +15,7 @@ git clone https://github.com/Josem0117/FactoredAI
 cd your-repository
 
 ## Building and Running the Docker Containers
+![image](https://github.com/Josem0117/FactoredAI/assets/90717090/cd5c0488-4ae2-4288-aafd-710b9ee0b936)
 
 ### Frontend
 
